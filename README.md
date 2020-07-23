@@ -25,9 +25,9 @@ I'm cahit beyaz, working as Senior Software Developer in /Turkey/istanbul @[Exag
 
 ## Know / Using 🧠
 - .net, net core, c\#, mssql, asp.net core, web api, wcf, soap
-- angular, html, css, material design, ngxs, ngrx, typescipt, javascript, nodejs
+- angular, html, css, material design, ngxs, ngrx, typescript, javascript, nodejs
 - mssql, postgresql, oracle
-- monogdb, redis, influx
+- monogdb, redis, influxdb
 - DevOps pipeline management
 
 ## How to reach me 📫
