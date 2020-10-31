@@ -29,6 +29,7 @@ I'm cahit beyaz, working as Senior Software Developer in /Turkey/istanbul @[Exag
 - mssql, postgresql, oracle
 - monogdb, redis, influxdb
 - DevOps pipeline management
+- Cryptography, Application runtime security, EMV
 
 ## How to reach me 📫
 
