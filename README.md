@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # 👋 👋 👋
 
-I'm cahit beyaz, working as Senior Software Developer in /Turkey/istanbul @[Exagate](https://exagate.com)
+I'm cahit beyaz, working as Software Developer in /Turkey/istanbul 
 
 ![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fcahitbeyaz%2Fgithubreadme)
 
