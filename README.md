@@ -19,10 +19,6 @@ Here are some ideas to get you started:
 
 I'm cahit beyaz, working as Software Developer in /Turkey/istanbul 
 
-![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fcahitbeyaz%2Fgithubreadme)
-
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=cahitbeyaz&show_icons=true)
-
 ## Know / Using 🧠
 - .net, net core, c\#, mssql, asp.net core, web api, wcf, soap
 - angular,react,next.js, html, css, material design, ngxs, ngrx, typescript, javascript, nodejs
