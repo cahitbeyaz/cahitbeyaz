@@ -17,25 +17,5 @@ Here are some ideas to get you started:
 
 # 👋 👋 👋
 
-I'm cahit beyaz, working as Software Developer in /Turkey/istanbul 
+I'm cahit, working as Software Developer in /Turkey/istanbul 
 
-## Know / Using 🧠
-- .net, net core, c\#, mssql, asp.net core, web api, wcf, soap
-- angular,react,next.js, html, css, material design, ngxs, ngrx, typescript, javascript, nodejs
-- mssql, postgresql, oracle
-- monogdb, redis, timescaledb, influxdb
-- docker, kubernetes, jenkins, DevOps pipeline management
-- Cryptography, Application runtime security, EMV
-
-## How to reach me 📫
-
-[linkedin.com/in/cahitbeyaz](https://www.linkedin.com/in/cahitbeyaz/)
-
-## Intersted In 💬
-
-I'd like to get in touch with the following topics
-
-- Architecting
-  - Microservice architecture
-  - High Performant Backends
-  - Software architecture
