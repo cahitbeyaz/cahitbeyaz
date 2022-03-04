@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 # 👋 👋 👋
 
-I'm cahit, working as a software developer in /Turkey/İstanbul
+I'm cahit, working as a software developer in /turkey/istanbul
