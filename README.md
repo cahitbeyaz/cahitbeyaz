@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 # 👋
 
-I'm cahit, working as a software developer in /turkey/istanbul
+I'm cahit, working as a software developer in /Universe/Laniakea Supercluster/Virgo Cluster/Local Group/Milky Way Galaxy/Solar System/Planet Earth
